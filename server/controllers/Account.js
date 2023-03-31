@@ -1,4 +1,3 @@
-const session = require('express-session');
 const models = require('../models');
 
 const { Account } = models;
